@@ -4,3 +4,5 @@
 [性能优化——从浏览器输入url开始说起](https://github.com/zichil/zichil.github.io/issues/4)
 
 [9102年 webpack4 升级](https://github.com/zichil/zichil.github.io/issues/5)
+
+[数据结构——链表](https://github.com/zichil/zichil.github.io/issues/6)
